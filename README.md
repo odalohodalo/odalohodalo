@@ -1,5 +1,9 @@
 ![david](https://github.com/user-attachments/assets/371e2a9b-fec6-4f28-9c9b-0022cdb8a0b0)
 
+- Frontend Developer based in Serbia, passionate about building things.
+- Working primarily within the JavaScript ecosystem of frameworks, but always open to exploring new technologies.  
+- Reach out via email: [davidodalovic@gmail.com](mailto:davidodalovic@gmail.com).
+
 
 <!--
 **odalohodalo/odalohodalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
